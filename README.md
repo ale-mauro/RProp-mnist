@@ -1,5 +1,5 @@
 # RProp-mnist
-Studio dell'apprendimento di una rete neurale confrontando le varianti della RProp
+Studio dell'apprendimento di una rete neurale confrontando le varianti della RProp basato sull'articolo "Empirical evaluation of the improved Rprop learning algorithms - Christian Igel, Michael Husken"
 
 Per eseguire il progetto bisogna eseguire lo script "mainScript".
 L'esecuzione dello script farà partire quattro processi di classificazione sul dataset mnist ridotto a 10k immagini, uno per ogni variante.
